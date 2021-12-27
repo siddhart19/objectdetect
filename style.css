@@ -1,0 +1,12 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+a{
+    font-size: 22px !important;
+    width: 400px;
+    border-radius: 30px !important;
+    background-color: aquamarine;
+    color: blue;
+    
+}
